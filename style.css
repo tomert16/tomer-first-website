@@ -4,13 +4,13 @@ body {
 
 h1 {
     text-align: center;
-    color:aqua;
+    color:lightseagreen;
 }
 nav {
     text-align: center;
 }
 nav > a {
-    padding-left: 10px;
-    padding-right: 10px;
-    color: aqua;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: lightseagreen;
 }
