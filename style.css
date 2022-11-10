@@ -1,8 +1,16 @@
 body {
-    background: turquoise;
+    background-color: antiquewhite;
 }
 
 h1 {
     text-align: center;
-    color: white;
+    color:aqua;
+}
+nav {
+    text-align: center;
+}
+nav > a {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: aqua;
 }
