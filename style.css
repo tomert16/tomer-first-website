@@ -2,8 +2,10 @@ body {
     background-color: antiquewhite;
 }
 header {
+    border: 10px solid antiquewhite;
     position: sticky;
     top: 0;
+    background-color: antiquewhite;
 }
 h1 {
     text-align: center;
