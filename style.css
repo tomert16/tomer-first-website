@@ -1,7 +1,10 @@
 body {
     background-color: antiquewhite;
 }
-
+header {
+    position: sticky;
+    top: 0;
+}
 h1 {
     text-align: center;
     color:lightseagreen;
@@ -19,10 +22,14 @@ nav > a {
 }
 img#surfer {
     height: 47pc;
+    width: 90pc;
 }
 p.intro {
     padding-right: 60%;
     text-align: center;
     position: relative;
-    top: 15pc;
+    top: 30pc;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
 }
