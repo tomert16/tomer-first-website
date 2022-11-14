@@ -24,13 +24,14 @@ nav > a {
 }
 img#surfer {
     height: 47pc;
-    width: 90pc;
+    width: 89pc;
+    margin-top: -300px;
 }
 p.intro {
     padding-right: 60%;
     text-align: center;
     position: relative;
-    top: 30pc;
+    top: 15pc;
     font-size: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
