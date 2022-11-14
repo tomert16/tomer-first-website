@@ -35,3 +35,20 @@ p.intro {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
 }
+
+nav > a.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+nav > a.fa:hover {
+    opacity: 0,7;
+}
+nav > a.fa-instagram {
+    color: black;
+}
+nav > a.fa-linkedin {
+    color: black;
+}
